@@ -3,11 +3,16 @@
 - 🌱 Định Bú Soucre Hả
 - 💞️ Thích Combat Ko
 - 📫 Có Gì Thì Nhắn Discord thanhtv68_
-- ⚡ Còn Giờ Ko Có Soucre Cút Mẹ Mày Đi
+- ⚡ Còn Giờ Ko Có Soucre Cút Đi
 
 # GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-0-a-d&show_icons=true&count_private=true&theme=tokyonight)
+<!-- GitHub stats card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-0-a-d&show_icons=true&theme=radical" alt="s-0-a-d GitHub stats" />
+</p>
 
 <!-- Top languages (language breakdown) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-0-a-d&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-0-a-d&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</p>
