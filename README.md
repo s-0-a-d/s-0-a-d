@@ -2,7 +2,7 @@
 - 👀 Mày Là Ai
 - 🌱 Định Bú Soucre Hả
 - 💞️ Thích Combat Ko
-- 📫 Có Gì Thì Nhắn Zalo 355562257
+- 📫 Có Gì Thì Nhắn Discord thanhtv68_
 - ⚡ Còn Giờ Ko Có Soucre Cút Mẹ Mày Đi
 
 # GitHub Stats
