@@ -6,7 +6,6 @@
 - ⚡ Còn Giờ Ko Có Soucre Cút Đi
 
 ## 📊 GitHub Stats
-![s-0-a-d GitHub stats](https://github-readme-stats.vercel.app/api?username=s-0-a-d&show_icons=true&include_all_commits=true&theme=tokyonight)
-
-## 🧭 Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-0-a-d&layout=donut&theme=tokyonight)
+- ![Lua 70%](https://img.shields.io/badge/Lua-70%25-2C2D72?style=flat&logo=lua&logoColor=white)
+- ![HTML 20%](https://img.shields.io/badge/HTML-20%25-E34F26?style=flat&logo=html5&logoColor=white)
+- ![Other 10%](https://img.shields.io/badge/Other-10%25-lightgrey?style=flat)
