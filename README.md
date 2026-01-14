@@ -7,11 +7,12 @@
 
 # GitHub Stats
 
+<!-- GitHub stats card -->
 <p align="center">
-  <!-- Nếu workflow đã chạy, hai file SVG sẽ tồn tại trong /assets -->
-  <img src="./assets/s-0-a-d-stats.svg" alt="s-0-a-d GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-0-a-d&show_icons=true&theme=radical" alt="s-0-a-d GitHub stats" />
 </p>
 
+<!-- Top languages (language breakdown) -->
 <p align="center">
-  <img src="./assets/s-0-a-d-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-0-a-d&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
