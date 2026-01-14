@@ -7,6 +7,7 @@
 
 # GitHub Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s-0-a-d&hide=contribs&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-0-a-d&show_icons=true&count_private=true&theme=tokyonight)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s-0-a-d&theme=tokyonight&layout=compact)
+<!-- Top languages (language breakdown) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-0-a-d&layout=compact&theme=tokyonight)
